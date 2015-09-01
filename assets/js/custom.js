@@ -11,7 +11,7 @@
 		
 		// Image background
 		$.vegas({
-            src:'assets/images/bg1.jpg'
+            src:'assets/images/rebecca.pizza.jpg'
         });
 
         $.vegas('overlay', {
