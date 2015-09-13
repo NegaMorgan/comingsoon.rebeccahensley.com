@@ -92,10 +92,6 @@ a {
 	position: relative;
 	z-index: 3; 
 }
-
-.container {
-	padding-top: 120px;
-}
  
 .main {
 	margin: 5% auto 0 auto;
@@ -200,6 +196,11 @@ h1, h2, h3, h4 {
 
 .main .slogan {
 	font-size: 18px;
+}
+
+.main .slogan ul {
+	list-style-type: none;
+	padding-left: 0;
 }
 
 .main .slogan a {

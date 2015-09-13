@@ -52,7 +52,7 @@
 		}
 
 		// Open modal window on click
-		$('.social a:first').on('click', function(e) {
+		$('.more-links a').on('click', function(e) {
 			var mainInner = $('.overlay'),
 				modal = $('#' + $(this).attr('data-modal'));
 					
